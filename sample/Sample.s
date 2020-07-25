@@ -3,5 +3,5 @@ let _ = require( 'wdecoder' );
 
 /**/
 
-___
+console.log( '___ not implemented ___' );
 
