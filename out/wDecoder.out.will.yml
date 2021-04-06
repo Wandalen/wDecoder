@@ -1470,6 +1470,4 @@ module:
       ../.im.will.yml:
         hash: 021c4f329755d24a5ea08d840763e10d
         size: 4681
-      wDecoder.out.will.yml:
-        hash: 74c0e0e269dfcb85d584a6432351308c
-        size: 37241
+      wDecoder.out.will.yml: *ref_0
